@@ -6,7 +6,7 @@ Metasploit is a framework used for penetration testing, vulnerability validation
 -Start Metasploit
 -Check if PostgreSQL is connected ( Metasploit database) 
 -Start Metasploit database 
-- Start Metasploit console
+-Start Metasploit console
 
 ##Tools Used
 -Kali Linux 
