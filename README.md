@@ -1,9 +1,9 @@
 # Installation-and-Configuring-of-Metasploit-framework-on-Kali-Linux
-Metasploit is a framework used for penetration testing, vulnerability validation, exploit development In this project I will demonstrate installation and configuring of Metasploit framework on Kali Linux 
+Metasploit is a framework used for penetration testing, vulnerability validation and exploit development. In this project I will demonstrate installation and configuring of Metasploit framework on Kali Linux 
 
 ##Objectives
 -Install Metasploit framework  
--start Metasploit
+-Start Metasploit
 -Check if PostgreSQL is connected ( Metasploit database) 
 -Start Metasploit database  
 
