@@ -14,8 +14,8 @@ Metasploit is a framework used for penetration testing, vulnerability validation
 
 
 # Steps
-- apt install Metasploit-framework(to install Metasploit framework Kali Linux)
-- systemctl status PostgreSQL
+- apt install Metasploit-framework(to install Metasploit framework on  Kali Linux)
+- systemctl status PostgreSQL (to check metasploit framework database  status)
 - msfconsole (to start Metasploit framework)
 - msfdb init (to start Metasploit framework database)
 - db_connect -y/usr/share/metasploit-famework/config/databse.yml)( to connected the database manually to the console if not connected)
